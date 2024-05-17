@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Final Project - Taste of Past</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Log In</string>
+    <string name="full_name">Full Name</string>
+    <string name="nick_name">Nickname</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="btn_signUp">Let's Get Cooking!</string>
+    <string name="btn_Login">Already have an account?\n
+                                    Login Now!</string>
+    <string name="btn_SignUpNow">Doesn't have an account?\n
+                                    Sign Up Now!</string>
+    <string name="search_bar">Search</string>
+    <string name="highLights">Highlights</string>
+    <string name="categories">Categories</string>
+    <string name="favorites">Favorites</string>
+    <string name="dish_name">Dish Name</string>
+</resources>
